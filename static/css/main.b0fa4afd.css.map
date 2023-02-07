@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.b0fa4afd.css","mappings":"AACA,gBAME,YAAa,CAHb,QAAS,CAET,eAAgB,CADhB,SAAU,CAGV,WACF","sources":["style.css"],"sourcesContent":["\nhtml,\nbody,\n#root {\n  margin: 0;\n  padding: 0;\n  overflow: hidden;\n  height: 100vh;\n  width: 100vw;\n}\n        "],"names":[],"sourceRoot":""}
